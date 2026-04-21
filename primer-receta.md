@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Tortilla de patatas fácil"
+---
+
+## Ingredientes
+- 3 patatas
+- 4 huevos
+- sal
+
+## Preparación
+1. Pela las patatas
+2. Fríe las patatas
+3. Mezcla con huevo y cocina
